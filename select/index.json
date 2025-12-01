@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "小さな願い",
+  "base_artist": "竜胆ルリ (CV：成瀬未亜)",
+  "createdAt": "2025-12-01T11:02:57.540863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さな願い",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/01_小さな願い_Al_Green.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小さな願い",
+      "artist": "アレサ・フランクリン",
+      "has_synced": true,
+      "path": "select/02_小さな願い_アレサ・フランクリン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "小さな願い (2024 New Remix)",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/03_小さな願い_(2024_New_Remix)_竹内まりや.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな願い",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_小さな願い_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "小さな願い",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_02_小さな願い_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "小さな願い (2024 New Remix)",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_03_小さな願い_(2024_New_Remix)_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "小さな願い",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_04_小さな願い_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "小さな願い",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_05_小さな願い_竹内_まりや.txt"
+    }
+  ]
+}
